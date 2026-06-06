@@ -53,7 +53,7 @@ Performed:
 * Accuracy: **82.11%**
 ### Random Forest Classifier
 * Accuracy: **78.92%**
---
+  
 ## Model Evaluation
 Evaluation Metrics:
 * Accuracy
