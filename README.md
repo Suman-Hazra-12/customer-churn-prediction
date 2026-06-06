@@ -86,11 +86,9 @@ Customer-Churn-Prediction/
 │   └── Telco-Customer-Churn.csv
 │
 ├── notebooks/
-│   ├── customer_churn_EDA.ipynb
-│   ├── Customer_Churn_Modeling.ipynb
-│   └── churn_model.pkl
-│
-└── images/
+    ├── customer_churn_EDA.ipynb
+    ├── Customer_Churn_Modeling.ipynb
+    └── churn_model.pkl
 ```
 ---
 
