@@ -95,7 +95,7 @@ Customer-Churn-Prediction/
 ## How to Run
 ### Clone Repository
 ```bash
-git clone <https://github.com/Suman-Hazra-12/customer-churn-prediction>
+git clone https://github.com/Suman-Hazra-12/customer-churn-prediction
 ```
 ### Install Dependencies
 ```bash
